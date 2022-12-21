@@ -1,0 +1,49 @@
+1) write a program to take a input from the user and print the details
+   *Employee Name
+   *Employee Age
+   *Employee Phone Number\
+   *EMployee Address
+along with this print the type of all the variables
+
+2)write a program to take a input from the user and print the details
+  *Student Name 
+  *Student maths marks
+  *Student science marks
+
+->print student name in Upper case
+->add students marks (math+science) then print the total marks
+->then find the average of two subjects
+
+3)mylist=[23,4,5,6,7,8,1,2,3,9,0,122,10,2,3,4,3,3,2]
+mystr= "Quick Step Bangalore"
+1)write a python program to evaluate below list
+a)Add the items in list 
+b)Find the length of the list
+c)sort the elements from the list
+d)reverse the list
+e)Count the duplicates elements from the list (3,2)
+g)print "Step" using slicing
+h)print "Bangalore" using negative index
+i)print "QB"
+
+
+4)write a python program to evaluate below String
+a)Add the string " RT Nagar "  and print the new string
+b)Find the length of the string and reverse it
+
+5)List Slicing 
+mylist=[23,4,5,6,7,8,1,2,3,9,0,122,10,2,3,4,3,3,2]
+write a python program to slice the mylist
+a)print elements [1,2,3] using slicing concept
+b)print elements [9,0,122,10,2,3] 
+c)print elements [8,1,2,3,9,0,122,10,2,3,4,3,3,2] 
+d)print elements [10,2,3,4,3,3,2]
+e)print elements [10,3,3,2]
+f)print elements [6,8,2,9]
+g)print elements [1,0,3,2]
+
+using negative slice 
+e)print elements [10,3,3,2]
+f)print elements [6,8,2,9]
+g)print elements [1,0,3,2]
+h)print elements [1,2,3,9,0,122]

@@ -1,0 +1,26 @@
+# list
+# mylist=[1,2,3,"quick step",34.544,False,[1,2,3,4]]
+# print(mylist)
+# print(type(mylist))
+# print(mylist[4])
+
+mylist=[1,2,2,2,2,3,5,8,9,4,6,7,13,12,11,10]
+print(len(mylist))
+mylist.sort()
+print(mylist)
+mylist.reverse()
+print(mylist)
+mylist.append(15)
+print(mylist)
+mylist.insert(0,0)
+mylist.insert(13,14)
+mylist.sort()
+print(mylist)
+mylist.pop()
+print(mylist)
+print(mylist.count(2))
+# mylist.clear()
+mylist2=mylist.copy()
+mylist2.remove(14)
+print("mylist",mylist)
+print("mylist2",mylist2)
