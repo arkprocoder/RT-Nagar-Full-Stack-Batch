@@ -1,0 +1,10 @@
+3)write a python program
+to create a new file name "test.txt"
+a)add below content using write file
+"Quick Step
+it is located at bangalore rt nagar
+it has n courses"
+b)read the file and print
+c)read only two lines frome file
+d)append "karnataka" in new lines
+e)read the 'Step' using readlines
