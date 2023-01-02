@@ -1,0 +1,12 @@
+import math
+print(math.ceil(5.5))
+print(math.ceil(5.4))
+print(math.ceil(5.01))
+print(math.ceil(5.9))
+print(math.floor(5.4))
+print(math.floor(5.9))
+print(math.factorial(5))
+print(math.sqrt(625))
+print(math.pow(3,3))
+print(abs(-3.65))
+print(math.pi)
