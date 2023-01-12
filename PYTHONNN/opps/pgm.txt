@@ -1,0 +1,17 @@
+write a program on inheritance
+a)create a class Company which has class varaibles companyName,companyLocation,companyCompensation
+create a method which will print Company Details
+
+b)create a class Employee and inherit Company which has class varaibles,employeeName,employeeLocation,employeeSalary
+create a method which will print Employee Details along with company name,company location
+
+
+b)create a class Staff and inherit Company which has class varaibles,stafName,stafLocation,stafSalary
+create a method which will print Staff Details,company name,company location
+
+
+create  a obj1 for Staff
+create a obj2 for Employee
+create a obj3 fro Company
+
+and print all necessary details
