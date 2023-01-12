@@ -1,4 +1,6 @@
 class Employee:
+    def __init__(self):
+        print('i should run compulsory')
     company='Infosys'
 
 
